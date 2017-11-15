@@ -1,10 +1,10 @@
 {
-    "name": "coldume/imagecraft",
+    "name": "tiross/imagecraft",
     "type": "library",
     "keywords": ["gd", "image", "animation", "resize", "thumbnail", "watermark"],
     "description": "A reliable and extensible PHP image manipulation library",
     "license": "MIT",
-    "homepage": "https://github.com/coldume/imagecraft",
+    "homepage": "https://github.com/Tiross/imagecraft",
     "authors": [
         {
             "name": "Xianghan Wang",
@@ -12,10 +12,11 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0",
+        "php": ">=5.6.0",
+        "ext-gd": "*",
         "coldume/imc-stream": "~1.0",
         "coldume/translated-exception": "~1.0",
-        "symfony/event-dispatcher": "~2.4"
+        "symfony/event-dispatcher": "~3.2|~4.0"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.3"
