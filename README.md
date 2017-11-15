@@ -14,7 +14,7 @@ let me know. Thanks.
 
 ## Requirement
 
-*   PHP >= 5.4.0
+*   PHP >= 5.6.0
 *   PHP GD extension
 
 ## Installation
