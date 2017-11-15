@@ -15,7 +15,7 @@
         "php": ">=5.4.0",
         "coldume/imc-stream": "~1.0",
         "coldume/translated-exception": "~1.0",
-        "symfony/event-dispatcher": "~2.4"
+        "symfony/event-dispatcher": "~3.2|~4.0"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.3"
