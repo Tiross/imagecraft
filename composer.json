@@ -1,10 +1,10 @@
 {
-    "name": "coldume/imagecraft",
+    "name": "tiross/imagecraft",
     "type": "library",
     "keywords": ["gd", "image", "animation", "resize", "thumbnail", "watermark"],
     "description": "A reliable and extensible PHP image manipulation library",
     "license": "MIT",
-    "homepage": "https://github.com/coldume/imagecraft",
+    "homepage": "https://github.com/Tiross/imagecraft",
     "authors": [
         {
             "name": "Xianghan Wang",
