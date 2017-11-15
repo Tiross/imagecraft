@@ -13,6 +13,7 @@
     ],
     "require": {
         "php": ">=5.6.0",
+        "ext-gd": "*",
         "coldume/imc-stream": "~1.0",
         "coldume/translated-exception": "~1.0",
         "symfony/event-dispatcher": "~3.2|~4.0"
